@@ -1,0 +1,14 @@
+.profile-character-list {
+    width: auto !important;
+    margin: 1em;
+}
+
+.profile-character-list td, .profile-character-list th {
+    border: 1px solid black;
+    padding: 0.5em;
+}
+
+.post-character-information {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+}
